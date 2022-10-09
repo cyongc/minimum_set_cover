@@ -7,3 +7,5 @@ The set cover problem takes as input a collection S of m subsets of the universa
 
 **Regarding data sets..**
 Each file has a name like “s-X-10-20”, meaning that the file contains a set of 20 subsets of special type X, with U = {1, . . . , 10}.  The first line of each file will contain the size of the universal set, and the second line the number of subsets in S. Each subsequent line contains a list of the elements in the associated subset.
+
+Completed for CSE 373 with Steven Skiena
